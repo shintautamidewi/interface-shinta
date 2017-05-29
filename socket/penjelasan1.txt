@@ -1,0 +1,11 @@
+perbedaan dari program socket interface
+
+
+1.implement yaitu pemanggilan class baru 
+  implement dari nuclearpower.java meng implement socket yang isinya pemanggilan get power dan countpower
+   implement dari panaspower.java meng implement socket yang isinya pemanggilan get power dan count power tetapi me return get power nya saja
+   
+
+2.extends yaitu  pewarisan untuk pemangilan interface
+
+    extends dari turbinpower.java adalah run untuk mengextends turbinpower fungsinya untuk memanggil  surya power
